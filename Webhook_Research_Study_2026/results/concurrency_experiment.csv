@@ -1,0 +1,11 @@
+repetition,mode,workers,processing_claims,final_attempt_count,final_status
+1,no_lock,5,5,1,processed
+1,locked,5,1,1,processed
+2,no_lock,5,5,1,processed
+2,locked,5,1,1,processed
+3,no_lock,5,5,1,processed
+3,locked,5,1,1,processed
+4,no_lock,5,5,1,processed
+4,locked,5,1,1,processed
+5,no_lock,5,5,1,processed
+5,locked,5,1,1,processed

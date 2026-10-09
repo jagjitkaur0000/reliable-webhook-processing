@@ -1,0 +1,4 @@
+mode,successful_requests,failed_requests,unique_effects,duplicate_effects,mean_latency_ms,p95_latency_ms
+baseline,230,20,185.8,44.2,0.00524,0.0057
+idempotent,230,20,185.8,0,0.00825,0.01
+idempotent_retry,250,0,200,0,0.00826,0.0101

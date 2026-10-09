@@ -1,0 +1,8 @@
+{
+  "python": "3.13.3",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "unique": 200,
+  "repeats": 5,
+  "seed": 42,
+  "database": "SQLite in-memory"
+}
